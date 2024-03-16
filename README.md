@@ -22,10 +22,6 @@ The dataset consists of:
 - `taxitripdata.csv`: Contains trip details and pickup/drop-off zones.
 - `taxizonegeo.csv`: Contains polygon vertices of pickup zone areas.
 
-## Implementation
-
-The project involves implementing the above tasks twice, once for MongoDB and once for Cassandra.
-
 ## Results
 
 - The results of queries (f), (g), and (h) will be displayed using visualizations.
