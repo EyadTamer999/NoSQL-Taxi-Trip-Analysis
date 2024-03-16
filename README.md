@@ -24,7 +24,7 @@ The dataset consists of:
 
 ## Results
 
-- The results of queries (f), (g), and (h) will be displayed using visualizations.
+- The results of queries 6, 7, 8 and 9 will be displayed using visualizations.
 
 ## Contributors
 
