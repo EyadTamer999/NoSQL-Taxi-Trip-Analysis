@@ -28,7 +28,7 @@ The project involves implementing the above tasks twice, once for MongoDB and on
 
 ## Results
 
-- The results of queries (f), (g), and (h) will be displayed using visualizations, showcasing creativity and efficiency.
+- The results of queries (f), (g), and (h) will be displayed using visualizations.
 
 ## Contributors
 
